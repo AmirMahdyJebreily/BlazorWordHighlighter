@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BToyHRDRsMnXjO4OKjZwlxKoO7YHfhRxf/5Iw1EEhCQ=",
+  "Hash": "FpXsseNjmRFwIuPmfVWqyenurHylf/dmVwR4GSR/eyo=",
   "Source": "BlazorWordHighlighter",
   "BasePath": "_content/BlazorWordHighlighter",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorWordHighlighter\\wwwroot",
       "Source": "BlazorWordHighlighter",
-      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
       "BasePath": "_content/BlazorWordHighlighter",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\css\\dist\\style.css",
+      "Identity": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\css\\dist\\style.css",
       "SourceId": "BlazorWordHighlighter",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
       "BasePath": "_content/BlazorWordHighlighter",
       "RelativePath": "css/dist/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dist\\style.css"
     },
     {
-      "Identity": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\css\\site.css",
       "SourceId": "BlazorWordHighlighter",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
       "BasePath": "_content/BlazorWordHighlighter",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\favicon.ico",
       "SourceId": "BlazorWordHighlighter",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
       "BasePath": "_content/BlazorWordHighlighter",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\scripts\\script.js",
+      "Identity": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\scripts\\script.js",
       "SourceId": "BlazorWordHighlighter",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\wwwroot\\",
       "BasePath": "_content/BlazorWordHighlighter",
       "RelativePath": "scripts/script.js",
       "AssetKind": "All",

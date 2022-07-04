@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEjJlsDmXVvSS/9RQEFE3F+CT0jJZZQaaMOR28hwv4FXscSA4lg6+LLWU44CXSwKmR50NvF0J2LJ8IXudTY12A==",
+  "dgSpecHash": "7f6XrzxWepV2wlM4si2bUy7KTkB1dLd3Rtc0a+e4oqquR7Vm1LBTn0xCJEzSwWZKpT/k5qRGldRW1bJ/+GOd3g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Word Highlighter Blazor\\BlazorWordHighlighter\\BlazorWordHighlighter\\BlazorWordHighlighter.csproj",
+  "projectFilePath": "D:\\Projects\\Word Highlighter Blazor\\Git\\BlazorWordHighlighter\\BlazorWordHighlighter\\BlazorWordHighlighter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
