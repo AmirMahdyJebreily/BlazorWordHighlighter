@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    * {
+        outline: none !important
+    }
+
+    mark {
+        @apply bg-amber-200 text-yellow-700
+    }
+
+    textarea {
+        resize: none;
+    }
+}
