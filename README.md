@@ -4,5 +4,7 @@ This application is developed with blazer server
 
 
 
-![blazorwordhighlighter]("/assets/Screenshot 2022-07-04 084046.png" "word highlighter with blazor")
 
+
+![blazorwordhighlighter](/assets/Screenshot.png "Blazor Word Highlighter")
+  
